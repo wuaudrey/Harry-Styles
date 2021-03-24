@@ -1,0 +1,22 @@
+html {
+  font: 100%/1.15 sans-serif;
+}
+
+body {
+  max-width: 48rem;
+  padding: 0 1rem;
+  margin: 1rem auto;
+}
+
+nav ul {
+  list-style: none url(//:0);
+  padding-left: 0; 
+}
+
+nav li {
+  margin-top: 1rem; 
+}
+
+p {
+  font: 1.05em/1.5 Georgia, serif;
+}
