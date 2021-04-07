@@ -19,7 +19,8 @@ nav li {
 }
 
 p {
-  font: 1.05em/1.5 Georgia, serif;
+  font: 1.05em/1.5 Georgia, sans-serif;
+  color: black;
 }
 
 img {
@@ -29,6 +30,7 @@ img {
 }
 
 h2 {
+  color: rgb(255, 0, 191);
 
 }
     
