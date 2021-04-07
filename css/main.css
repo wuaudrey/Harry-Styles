@@ -6,7 +6,7 @@ body {
   max-width: 48rem;
   padding: 0 1rem;
   margin: 1rem auto;
-  background color: white;
+  background color: black;
 }
 
 nav ul {
@@ -20,7 +20,7 @@ nav li {
 
 p {
   font: 1.05em/1.5 Georgia, sans-serif;
-  color: black;
+  color: white;
 }
 
 img {
