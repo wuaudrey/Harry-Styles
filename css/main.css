@@ -6,13 +6,13 @@ body {
   max-width: 48rem;
   padding: 0 1rem;
   margin: 1rem auto;
-  background color: rgb(255, 102, 204);
+  background color: white;
 }
-
 
 nav ul {
   list-style: none url(//:0);
   padding-left: 0; 
+  color: rgb(255, 102, 204);
 }
 
 nav li {
