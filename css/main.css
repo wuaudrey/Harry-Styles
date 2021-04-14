@@ -33,7 +33,7 @@ h1 {
   text-align: center;
   font-size: 500%;
   display: block;
-  font weight: bold;
+  font-weight: bold;
   color: rgb(255, 255, 255);
 }
 
@@ -45,7 +45,7 @@ h1 {
 a {
   color: rgb(0, 0, 0);
   display: block;
-  padding: 8 px;
+  padding: 8px;
   background-color: rgb(229, 115, 175);
 }
 
@@ -73,7 +73,7 @@ li {
 li a {
   display: block;
   color: white;
-  text align: center;
+  text-align: center;
   padding: 14px 16px;
   text-decoration: none;
 }
