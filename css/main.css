@@ -1,5 +1,6 @@
 html {
   font: 100%/1.15 sans-serif;
+  display: block;
 }
 
 nav {
@@ -11,6 +12,8 @@ body {
   padding: 0 1rem;
   margin: 1rem auto;
   background-color: rgb(0, 0, 0);
+  line-height: 2em;
+  display: block;
 }
 
 nav ul {
@@ -34,6 +37,14 @@ img {
 }
 
 h1 {
+  color: rgb(229, 115, 175);
+  text-align: center;
+  font-size: 500%;
+  display: block;
+  margin-block-start: 0.67em;
+  maargin-block-end: 0.67em;
+  margin-incline-start: 0px;
+  font weight: bold;
   color: rgb(255, 255, 255);
 }
 
