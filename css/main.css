@@ -63,18 +63,15 @@ figure {
 element.style {
 }
 
-@media screen and (max-width: 600px) ul.topnav li.right, ul.topnav li {
-  float: none;
+ul {
+  display: block;
+  list-style-type: disc;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: -40px;
+  padding-inline-start: 0px;
 }
-ul.topnav li{
-  float: left;
-}
-
-li {
-  display: list-item;
-  text-align: -webkit-match-parent;
-}
-
   
 
 
