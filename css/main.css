@@ -63,6 +63,11 @@ figure {
 element.style {
 }
 
+li {
+  display: list-item;
+  text-align: -webkit-match-parent;
+}
+ 
 ul {
   display: block;
   list-style-type: disc;
