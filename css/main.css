@@ -93,14 +93,14 @@ li:last-child {
 }
 
 /* Style the navigation menu */
-.navbar {
+.topnav {
   width: 100%;
   background-color: #555;
   overflow: auto;
 }
 
 /* Navigation links */
-.navbar a {
+.topnav a {
   float: left;
   padding: 12px;
   color: white;
@@ -111,17 +111,17 @@ li:last-child {
 }
 
 /* Add a background color on mouse-over */
-.navbar a:hover {
+.topnav a:hover {
   background-color: #000;
 }
 
-.navbar a.active {
+.topnav a.active {
   background-color: #4CAF50;
 }
 
 /* Add responsiveness - make the navigation links appear on top of each other */
 @media screen and (max-width: 500px) {
-  .navbar a {
+  .topnav a {
     float: none;
     display: block;
     width: 100%;
