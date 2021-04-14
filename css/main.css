@@ -21,6 +21,10 @@ p {
   color: rgb(255, 255, 255);
 }
 
+p class {
+  word-wrap: break-word;
+}
+
 img {
   width: auto;
   max-width: 100%;
