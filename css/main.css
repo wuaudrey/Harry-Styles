@@ -1,5 +1,5 @@
 html {
-  font: 100%/1.15 georgia; sans-serif;
+  font: 100%/1.15 open sans; sans-serif;
   display: block;
 }
 
@@ -17,7 +17,7 @@ body {
 }
 
 p {
-  font: 1.05em/1.5 sans-serif;
+  font: 1.05em/1.5 open sans; sans-serif;
   color: rgb(255, 255, 255);
 }
 
