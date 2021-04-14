@@ -2,11 +2,15 @@ html {
   font: 100%/1.15 sans-serif;
 }
 
+nav {
+  display: block;
+}
+
 body {
   max-width: 48rem;
   padding: 0 1rem;
   margin: 1rem auto;
-  background color: white;
+  background color: black;
 }
 
 nav ul {
