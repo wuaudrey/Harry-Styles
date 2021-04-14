@@ -60,6 +60,21 @@ figure {
   margin-inline-end: 40px;
 }
     
-    
+element.style {
+}
+
+@media screen and (max-width: 600px) ul.topnav li.right, ul.topnav li {
+  float: none;
+}
+ul.topnav li{
+  float: left;
+}
+
+li {
+  display: list-item;
+  text-align: -webkit-match-parent;
+}
+
+  
 
 
