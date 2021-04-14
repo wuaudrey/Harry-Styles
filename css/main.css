@@ -54,7 +54,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #dddddd;
+  background-color: rgb(229, 115, 175);
   list-style-type: none;
   width: 60px;
   top: 0;
@@ -76,10 +76,6 @@ li a {
 /* Change the link color to #111 (black) on hover */
 li a:hover {
   background-color: #111;
-}
-
-.active {
-  background-color: #4CAF50;
 }
 
 /* Add a black right border to all list items, except the last item (last-child) */
