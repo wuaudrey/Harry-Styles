@@ -17,11 +17,11 @@ body {
 }
 
 h1 {
-  font family: 'Erica One';
-  font-size: 50px;
+  font family: "Erica One";
+  font-size: 60px;
   text-transform: uppercase;
   text-align: left;
-  color: white;
+  color: rgb(0, 0, 0);
 }
 
 p {
