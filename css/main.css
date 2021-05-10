@@ -16,6 +16,13 @@ body {
   display: block;
 }
 
+h1 {
+  font family: 'Erica+One'; font-size: 50px;
+  text-transform: uppercase;
+  text-align: center;
+  color: white;
+}
+
 p {
   font: 1.05em/1.5 open sans; sans-serif;
   color: rgb(255, 255, 255);
