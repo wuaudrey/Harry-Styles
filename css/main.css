@@ -42,6 +42,7 @@ img {
 }
 
 h3 {
+  font family: 1.05em/1.5 'Open Sans'; sans-serif;
   color: rgb(229, 115, 175);
   text-align: center;
   display: block;
