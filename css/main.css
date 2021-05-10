@@ -1,5 +1,5 @@
 html {
-  font: 100%/1.15 open sans; sans-serif;
+  font: 100%/1.15 Open Sans; sans-serif;
   display: block;
 }
 
@@ -17,7 +17,8 @@ body {
 }
 
 h1 {
-  font family: 'Erica+One'; font-size: 50px;
+  font family: 'Erica One';
+  font-size: 50px;
   text-transform: uppercase;
   text-align: center;
   color: white;
